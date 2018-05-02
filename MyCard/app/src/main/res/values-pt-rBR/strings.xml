@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">David Matheus</string>
+    <string name="github"><a href="https://github.com/MSSDavid">github.com/MSSDavid</a></string>
+    <string name="estu">Estudante de Engenharia de Software, nasceu em 16 de outubro de 97 e gosta de ler blogs.</string>
+    <string name="twitter">Twitter: @DavidMSS</string>
+    <string name="eu">David olha para frente, ele tem pele morena e tem um olhar profundo. Está vestindo uma camisa com cores amarelas e pretas e está de costas para uma parede amarela também.</string>
+</resources>
